@@ -1,30 +1,44 @@
-# Real Estate AI Agent
+# HomeMatch: Real Estate AI Agent
 
-## Project Introduction
+## Overview
 
-Imagine you're a talented developer at "Future Homes Realty", a forward-thinking real estate company. In an industry where personalization is key to customer satisfaction, your company wants to revolutionize how clients interact with real estate listings. The goal is to create a personalized experience for each buyer, making the property search process more engaging and tailored to individual preferences.
+HomeMatch is an innovative application developed for "Future Homes Realty" that leverages large language models (LLMs) and vector databases to create personalized real estate listings. The application aims to enhance the property search experience by tailoring listings to individual buyer preferences.
 
-### The Challenge
+## Features
 
-Your task is to develop an innovative application named "HomeMatch". This application leverages large language models (LLMs) and vector databases to transform standard real estate listings into personalized narratives that resonate with potential buyers' unique preferences and needs.
+### 1. Understanding Buyer Preferences
+- **Input Requirements**: Buyers can input their preferences, including:
+  - Location
+  - Property type
+  - Budget
+  - Amenities
+  - Lifestyle choices
+- **Natural Language Processing**: Utilizes LLMs to interpret buyer inputs, understanding nuanced requests beyond basic filters.
 
-### Core Components of "HomeMatch"
+### 2. Integrating with a Vector Database
+- **Property Storage**: Connects with a vector database to store all available property listings.
+- **Vector Embeddings**: Matches properties with buyer preferences by focusing on:
+  - Neighborhood vibes
+  - Architectural styles
+  - Proximity to specific amenities
 
-#### Understanding Buyer Preferences:
+### 3. Personalized Listing Description Generation
+- **Description Rewriting**: For each matched listing, the application uses an LLM to:
+  - Rewrite descriptions to highlight aspects most relevant to the buyer’s preferences.
+  - Ensure that personalization emphasizes appealing characteristics without altering factual information about the property.
 
-- Buyers will input their requirements and preferences, such as location, property type, budget, amenities, and lifestyle choices.
-- The application uses LLMs to interpret these inputs in natural language, understanding nuanced requests beyond basic filters.
+### 4. Listing Presentation
+- **Output Format**: Outputs personalized listings as text descriptions, providing an engaging and tailored experience for potential buyers.
 
-#### Integrating with a Vector Database:
+## Getting Started
 
-- Connect "HomeMatch" with a vector database, where all available property listings are stored.
-- Utilize vector embeddings to match properties with buyer preferences, focusing on aspects like neighborhood vibes, architectural styles, and proximity to specific amenities.
+To set up the HomeMatch application, follow these steps:
+1. Initialize a Python project and set up a virtual environment.
+2. Install necessary packages, including LangChain and a vector database package (e.g., ChromaDB).
+3. Generate real estate listings using an LLM.
+4. Store listings in the vector database and implement the buyer preference interface.
+5. Test the application to ensure it meets all requirements.
 
-#### Personalized Listing Description Generation:
+## Conclusion
 
-- For each matched listing, use an LLM to rewrite the description in a way that highlights aspects most relevant to the buyer’s preferences.
-- Ensure personalization emphasizes characteristics appealing to the buyer without altering factual information about the property.
-
-#### Listing Presentation:
-
-- Output the personalized listing(s) as a text description of the listing.
+HomeMatch aims to revolutionize the real estate experience by providing personalized property listings that resonate with buyers' unique preferences. By integrating advanced technologies like LLMs and vector databases, HomeMatch enhances the property search process, making it more engaging and tailored for each user.
