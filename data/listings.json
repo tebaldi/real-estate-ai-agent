@@ -1,0 +1,92 @@
+[
+  {
+    "Neighborhood": "Willow Creek",
+    "Price": "$950,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3.5,
+    "House Size": "2,700 sqft",
+    "Description": "Step into timeless elegance in this beautifully maintained colonial-style home in Willow Creek. With 4 spacious bedrooms and 3.5 bathrooms, this home offers a formal dining room, chef’s kitchen with granite countertops, and a cozy family room with a wood-burning fireplace. French doors lead to a professionally landscaped backyard featuring a large patio, perfect for entertaining.",
+    "Neighborhood Description": "Willow Creek is a family-friendly suburb known for its excellent school district, leafy streets, and weekend farmer's market. Residents enjoy safe streets, community events, and proximity to top-rated restaurants and boutiques."
+  },
+  {
+    "Neighborhood": "Marina Bay",
+    "Price": "$1,250,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "House Size": "1,450 sqft",
+    "Description": "Live the waterfront dream in this luxury condo at Marina Bay. Floor-to-ceiling windows offer panoramic ocean views, while the sleek kitchen features high-end appliances and quartz counters. The primary suite includes a spa-inspired bathroom and a private balcony perfect for sunsets over the marina.",
+    "Neighborhood Description": "Marina Bay is a vibrant coastal enclave with walkable access to the marina, yacht clubs, and trendy seafood eateries. Popular with professionals and retirees alike, it offers beach access, paddleboarding, and a lively boardwalk atmosphere."
+  },
+  {
+    "Neighborhood": "Aspen Ridge",
+    "Price": "$1,100,000",
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "House Size": "3,200 sqft",
+    "Description": "Nestled in the foothills, this mountain-modern home in Aspen Ridge features vaulted ceilings, expansive windows, and breathtaking views. The main floor master suite includes a fireplace and private deck. Enjoy four additional bedrooms, a finished basement with theater room, and a 3-car garage.",
+    "Neighborhood Description": "Aspen Ridge is a luxury mountain community offering year-round outdoor adventures. With nearby hiking trails, ski resorts, and artisan shops, it’s perfect for those seeking a blend of nature and comfort."
+  },
+  {
+    "Neighborhood": "Silver Heights",
+    "Price": "$675,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "House Size": "1,900 sqft",
+    "Description": "This mid-century modern gem in Silver Heights has been thoughtfully updated while preserving its architectural charm. Enjoy vaulted ceilings, original brick fireplace, and a seamless indoor-outdoor living experience with sliding doors that lead to a tranquil backyard retreat.",
+    "Neighborhood Description": "Silver Heights is known for its artistic vibe and historic homes. Locals enjoy a mix of retro cafes, record stores, and scenic overlooks. A hub for creatives and professionals, the community balances charm with urban convenience."
+  },
+  {
+    "Neighborhood": "Cypress Hollow",
+    "Price": "$420,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "House Size": "1,600 sqft",
+    "Description": "Perfect for first-time buyers or investors, this charming ranch home in Cypress Hollow offers single-level living with modern updates. Featuring a sunny kitchen, large backyard, and a two-car garage, it's move-in ready and just minutes from schools and shopping.",
+    "Neighborhood Description": "Cypress Hollow is a quiet, tree-lined neighborhood ideal for families. With nearby parks, walking trails, and a highly-rated elementary school, it's a peaceful suburb with strong community roots."
+  },
+  {
+    "Neighborhood": "Midtown Arts District",
+    "Price": "$780,000",
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "House Size": "1,300 sqft",
+    "Description": "Artistic flair meets urban convenience in this stunning loft in the heart of Midtown Arts District. Soaring ceilings, exposed brick walls, and a floating staircase give this unit a gallery-like ambiance. The open-concept layout is perfect for entertaining or working from home.",
+    "Neighborhood Description": "The Midtown Arts District is a cultural hub with galleries, performance venues, artisan coffee shops, and a lively nightlife. Popular with young professionals and artists, it’s one of the most dynamic areas in the city."
+  },
+  {
+    "Neighborhood": "Maple Glen",
+    "Price": "$560,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "House Size": "2,200 sqft",
+    "Description": "This updated split-level home in Maple Glen features a bright, open layout with modern finishes. Enjoy a spacious kitchen with island seating, a finished basement perfect for a playroom or home office, and a private backyard with a fire pit and deck.",
+    "Neighborhood Description": "Maple Glen offers suburban tranquility with city access. Locals love the community parks, weekend events, and excellent public schools. It’s ideal for families and commuters alike."
+  },
+  {
+    "Neighborhood": "Lakeview Terrace",
+    "Price": "$2,300,000",
+    "Bedrooms": 5,
+    "Bathrooms": 5.5,
+    "House Size": "4,500 sqft",
+    "Description": "This luxury estate in Lakeview Terrace boasts panoramic lake views, a gourmet kitchen with butler’s pantry, home theater, and an infinity-edge pool. The master suite features a private balcony, spa bath, and oversized walk-in closet.",
+    "Neighborhood Description": "Lakeview Terrace is an exclusive gated community with access to private docks, golf courses, and fine dining. Perfect for discerning buyers seeking privacy and sophistication."
+  },
+  {
+    "Neighborhood": "Highland Park",
+    "Price": "$890,000",
+    "Bedrooms": 3,
+    "Bathrooms": 2.5,
+    "House Size": "2,100 sqft",
+    "Description": "This modern farmhouse in Highland Park is full of curb appeal and interior charm. From the shiplap walls to the chef's kitchen with farmhouse sink, every detail has been carefully selected. The backyard features a covered patio, perfect for year-round outdoor dining.",
+    "Neighborhood Description": "Highland Park is a walkable neighborhood with boutique shops, organic grocers, and highly-rated schools. Known for its charm and community events, it offers a perfect blend of suburban life and urban access."
+  },
+  {
+    "Neighborhood": "Redwood Hills",
+    "Price": "$730,000",
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "House Size": "2,300 sqft",
+    "Description": "Located in scenic Redwood Hills, this craftsman-style home is a peaceful retreat. Featuring exposed beams, a gourmet kitchen, and a sunroom with forest views, this home is perfect for nature lovers. The landscaped yard includes a koi pond and gazebo.",
+    "Neighborhood Description": "Redwood Hills offers a serene lifestyle with access to hiking trails, nature reserves, and wineries. Popular with remote workers and retirees, it combines natural beauty with modern convenience."
+  }
+]
